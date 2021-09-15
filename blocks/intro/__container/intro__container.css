@@ -1,0 +1,12 @@
+.intro__container {
+  max-width: 690px;
+  min-height: 429px;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+}
+@media screen and (max-width: 768px) {
+  .intro__container {
+    max-width: 720px;
+  }
+}
