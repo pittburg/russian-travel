@@ -1,12 +1,12 @@
-.footer__menu_item {
+.menu__item {
   margin-right: 18px;
 }
 @media screen and (max-width: 767px) {
  
-  .footer__menu_item {
+  .menu__item {
     margin: 0 0 32px 0;
   }
-  .footer__menu_item:last-child {
+  .menu__item:last-child {
     margin: 0 0 48px 0;
   }
 }  
