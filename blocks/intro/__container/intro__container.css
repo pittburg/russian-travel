@@ -1,6 +1,5 @@
 .intro__container {
   max-width: 690px;
-  min-height: 429px;
   display: flex;
   flex-direction: column;
   align-self: flex-start;

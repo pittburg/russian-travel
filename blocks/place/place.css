@@ -3,7 +3,6 @@
   max-width: 100%;
   display: grid;
   grid-template-columns: 460px 1fr;
-  grid-template-rows: max-content;
   gap: 48px 40px;
 }
 .place:last-child {

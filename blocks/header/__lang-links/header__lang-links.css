@@ -5,6 +5,7 @@
   line-height: 1.17;
   display: flex;
   align-items: flex-end;
+  list-style-type: none;
 }
 @media screen and (max-width:424px) {
   .header__lang-links {
