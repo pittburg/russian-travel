@@ -3,7 +3,7 @@
   padding: 28px 0 24px;
   max-width: 1280px;
   min-height: 100%;
-  font-family: 'Inter', sans-serif;
+  font-family: 'Inter', 'Arial', sans-serif;
   color: #FFFFFF;
 }
 @media screen and (max-width:424px) {
