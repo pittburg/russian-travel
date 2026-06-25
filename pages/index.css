@@ -39,3 +39,4 @@
 @import url(../blocks/menu/__link/menu__link.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);
 @import url(../blocks/hover-link/hover-link.css);
+@import url(../blocks/header/__lang-link/_active/header__lang-link_active.css);
